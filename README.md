@@ -5,7 +5,6 @@ Web developer
 -------------
 
 *   🌍  I'm based in Rio de Janeiro
-*   ✉️  You can contact me at [Gabrielmouradoval@gmail.com](mailto:Gabrielmouradoval@gmail.com)
 *   🧠  I'm learning React
 
 ### Skills
