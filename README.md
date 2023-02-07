@@ -16,3 +16,6 @@ I've been learning to code for almost 2yrs, i started with HTML, CSS and JS. But
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 </p>
                     
+### Socials
+
+<p align="left"> <a href="https://www.codepen.io/bitswa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a></p>
