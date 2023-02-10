@@ -1,7 +1,7 @@
 Front-end Developer
 -------------------
 
-I've been learning to code for almost 2yrs, i started with HTML, CSS and JS. But my focus is React, Tailwind, Figma.
+I've been learning to code for almost 2yrs, i started with HTML, CSS and JS. But my focus is React, Tailwind...
 
 *   🖥️  See my portfolio at [MyPortfolio](http://bitswa.github.io/Portfolio)
 ### Skills 
